@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="26" viewBox="0 0 32 26">
+  <g id="Menu_Burger" data-name="Menu Burger" transform="translate(0.5 -0.5)">
+    <path id="Line_20" data-name="Line 20" d="M30,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H30a1,1,0,0,1,1,1A1,1,0,0,1,30,1Z" transform="translate(0.5 25.5)" fill="#fff"/>
+    <path id="Line_21" data-name="Line 21" d="M30,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H30a1,1,0,0,1,1,1A1,1,0,0,1,30,1Z" transform="translate(0.5 1.5)" fill="#fff"/>
+    <path id="Line_22" data-name="Line 22" d="M29.293,1H0A1,1,0,0,1-1,0,1,1,0,0,1,0-1H29.293a1,1,0,0,1,1,1A1,1,0,0,1,29.293,1Z" transform="translate(0.5 13.484)" fill="#fff"/>
+  </g>
+</svg>
